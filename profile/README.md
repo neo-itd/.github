@@ -59,7 +59,7 @@ Interfaces represent the macro genre. Think of these as domains. And within each
 
 * Communication
 * Conservation
-* Hygience
+* Hygiene
 * Media
 * Pleasure
 * Reformation
@@ -76,11 +76,8 @@ We utilize the Scientific Method for introducing and exploring problems. The goa
     - Predicted results
     - Actual results ( includes unintended effects )
     	+ Label as hypothesis sustaining.
-    	+ Or label as hypthesis contradicting.
+    	+ Or label as hypothesis contradicting.
 5. Provide an account of detailed observations.
     - Qualitative
     - Quantitative
 6. Make conclusions based on this method. Include follow-up actions and questions.
-
-
-
