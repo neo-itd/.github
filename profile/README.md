@@ -8,8 +8,9 @@
 ## 🤔 What is Neo Interface Technology & Design (Neo ITD)?
 An interface-spirited foundation using design and engineering as a means to research, develop, transact, and implement expressible elements. 
 
-_Note: Interface is not defined as a Graphical User Interface (GUI), but by its dictionary meaning of, The point of interconnection or contact between entities.__
-_Another note: Neo's "Expressible elements" are presented as functional prototypes, products, and applications.__
+_Note: Interface is not defined as a Graphical User Interface (GUI), but by its dictionary meaning — The point of interconnection or contact between entities._
+
+_Another note: Neo's "Expressible elements" are presented as functional prototypes, products, and applications._
 
 ## 𝌭 Business Model
 * Bring rapid prototyping in-house.
