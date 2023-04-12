@@ -1,4 +1,4 @@
-`Date last modified: 2023 03 29`
+`Date last modified: 2023 04 12`
 # Neo Information Technology & Design
 [xyz@neoitd.org](mailto:xyz@neoitd.org)  
 [ @__neoitd ](https://twitter.com/__neoitd)   
@@ -8,18 +8,53 @@
 ## 🤔 What is Neo Interface Technology & Design (Neo ITD)?
 An interface-spirited foundation using design and engineering as a means to research, develop, transact, and implement expressible elements. 
 
-_Note: Interface is not defined as a Graphical User Interface (GUI), but by its dictionary meaning — The point of interconnection or contact between entities._
+_Note: Interface is not defined as a Graphical User Interface (GUI), but by its dictionary meaning of, The point of interconnection or contact between entities.__
+_Another note: Neo's "Expressible elements" are presented as functional prototypes, products, and applications.__
 
-_Another note: Neo's "Expressible elements" are presented as functional prototypes, products, and applications._
+---
 
 ## 𝌭 Business Model
+
+### Channels
+* Establish a media platform ( content and distribution ). 
+* Publish our own perspectives.
+* Distribute directly to end-client.
+
+### Cost Structure
+* Allocate most of budget for creation.
 * Bring rapid prototyping in-house.
 * Combine the artisanal with modern manufacturing and production tools.
-* Deliver variety and uniqueness via micro productions.
 * Eliminate the cost of customization via modern tools ( design software, additive manufacturing machines ).
-* Maintain a public and open-source archive. 
-* Publish our own perspectives.
+
+### Customer Relationships
+* Implement end-user feedback into iterations.
+ 
+### Customer Segments
+* Curl most time monopolizing customers.
+* Many customers, partitioned ( then integrated via interests and permission ).
+
+### Key Activities
+* Deliver syztemized variable uniqueness via micro productions.
+
+### Key Partners
+* Create meaningful public and organic e2e relationships.
 * Use momentum of realized projects as opportunity to create consulting and commission opportunities.
+
+### Key Resources
+* Maintain a public and open-source archive.
+
+### Revenue Stream
+* If we cannot afford to produce the idea, license the concept.
+* Develop repeatable streams of income.
+* Avoid industry co-dependence.
+
+### Value Proposition
+* Adapt as needed.
+* Allow ecosystem of projects to be symbiotic.
+* Routinely sweep for ( and rectify ) any Single Point of Failure.
+* Never abandon a robust niche market for a non-existent and irrelevant one.
+
+---
 
 ## 🥷🏾 Design Disciplines
 * Content 
@@ -30,6 +65,8 @@ _Another note: Neo's "Expressible elements" are presented as functional prototyp
 * Research
 * Software
 
+---
+
 ## 👣 Guiding Principles
 Guiding principles are our foundations to form a perspective on how to work, exist.
 
@@ -39,7 +76,7 @@ Guiding principles are our foundations to form a perspective on how to work, exi
 * Design and Engineering are not separate. Neo views them as one.
 * Design as an exploration service to support || simplify || amplify current and emerging infrastructures.
 * Design is an implemented religion.
-* Design is not prettification, but deliverance of potency at || to || within a given domain.
+* Design is not "pretty-fication", but deliverance of potency at || to || within a given domain.
 * Endurance is fueled by curiosity.
 * Eliminate meaningless superlatives.
 * Function is an aesthetic. 
@@ -54,6 +91,7 @@ Guiding principles are our foundations to form a perspective on how to work, exi
 * View Interface from its base definition, "a point of interconnection between entities."
 * "Winning" will be defined by the intensity of the pursuit.
 
+---
 
 ## 🌏 Interfaces
 Interfaces represent the macro genre. Think of these as domains. And within each domain exists projects, products, content. 
@@ -65,6 +103,8 @@ Interfaces represent the macro genre. Think of these as domains. And within each
 * Pleasure
 * Reformation
 * Wealth
+
+---
 
 ## 👨🏾‍🍳 Methodology
 We utilize the Scientific Method for introducing and exploring problems. The goal is that these turn into detailed, focused, precise, and viable projects.
@@ -82,3 +122,6 @@ We utilize the Scientific Method for introducing and exploring problems. The goa
     - Qualitative
     - Quantitative
 6. Make conclusions based on this method. Include follow-up actions and questions.
+
+
+
